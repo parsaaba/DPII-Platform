@@ -1,0 +1,8 @@
+* text=auto
+*.sol linguist-language=Solidity
+newtheme/* linguist-vendored
+static/* linguist-vendored
+templates/* linguist-vendored
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.css linguist-detectable=false
